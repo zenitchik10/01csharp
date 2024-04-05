@@ -396,3 +396,75 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+../../../.android/
+        ../../../.bash_history
+        ../../../.cache/
+        ../../../.dotnet/
+        ../../../.gitconfig
+        ../../../.lesshst
+        ../../../.ssh/
+        ../../../.templateengine/
+        ../../../.viminfo
+        ../../../.vscode/
+        ../../../3D Objects/
+        ../../../AppData/
+        ../../../Apple/
+        ../../../Autodesk/
+        ../../../Contacts/
+        ../../Avatar World.lnk
+        ../../Block Crazy.lnk
+        ../../Block Sun.lnk
+        ../../Craft City.lnk
+        ../../Craft Earth.lnk
+        ../../Craft Vip.lnk
+        ../../Craft World-1.lnk
+        ../../Craft World.lnk
+        ../../Git Bash.lnk
+        ../../Legacy Launcher Stable.lnk
+        ../../Master Craft  Block World 3D.lnk
+        ../../Microsoft Edge.lnk
+        ../../Mini Block Craft.lnk
+        ../../MiniCraft City  Roblock Game.lnk
+        ../../MiniCraft Village.lnk
+        ../../Subway Surf.lnk
+        ../../Toca World.lnk
+        ../../Traffic Racer.lnk
+        ../../Visual Studio Code.lnk
+        ../../Word 2016.lnk
+        ../../desktop (1).ini
+        ../../desktop.ini
+        ./
+        ../lesson1.sln
+        "../../~$\320\250\320\225\320\244\320\243.xlsx"
+        "../../~$\320\261\320\273\320\270\321\206\321\213 \320\276\321\202\321\207\320\265\321\202.docx"
+        "../../\320\232\320\242\320\237 2 \320\232\320\233.xls"
+        "../../\320\232\320\242\320\237 6 \320\233\320\225\320\242.xls"
+        "../../\320\250\320\260\321\205\320\274\320\260\321\202\320\275\320\276-\320\261\320\270\320\273\321\214\321\217\321\200\320\264\320\275\321\213\320\271 \320\272\321\200\321\203\320\266\320\276\320\272 \320\256\320\275\320\270\320\276\321\200.xls"
+        "../../\320\277\321\200\320\276\320\263\321\200\320\260\320\274\320\274\320\260 \320\277\320\276 \321\210\320\260\321\205\320\274\320\260\321\202\320\260\320\274 \321\201 \320\232\320\242\320\237 2 \320\272\320\273.doc"
+        "../../\320\277\321\200\320\276\320\263\321\200\320\260\320\274\320\274\320\260 \320\277\320\276 \321\210\320\260\321\205\320\274\320\260\321\202\320\260\320\274 \321\201 \320\232\320\242\320\237 6 \320\273\320\265\321\202.doc"
+        "../../\321\200\320\270\321\201\321\203\320\275\320\272\320\270 \320\234\320\260\321\210\320\270/"
+        "../../\321\203\321\207\320\265\320\261\320\260/"
+        ../../../Documents/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../Intel.sav/
+        ../../../Intel/
+        ../../../IntelGraphicsProfiles/
+        ../../../Links/
+        ../../../MicrosoftEdgeBackups/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{c4b2e9d3-5c5c-11ed-9338-f656b28bd9ca}.TM.blf
+        ../../../NTUSER.DAT{c4b2e9d3-5c5c-11ed-9338-f656b28bd9ca}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{c4b2e9d3-5c5c-11ed-9338-f656b28bd9ca}.TMContainer00000000000000000002.regtrans-ms
+        ../../../OneDrive/
+        ../../../Pictures/
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Videos/
+        ../../../mmwin.displaypane.settings.20.0.xml
+        ../../../mmwin.settings.18.0.xml
+        ../../../mmwin.settings.20.0.xml
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
